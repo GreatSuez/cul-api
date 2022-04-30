@@ -1,251 +1,373 @@
 {
     "election": [{
-            "positionId": 1,
+            "pid": 1,
             "positionTitle": "President",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 2,
+            "pid": 2,
             "positionTitle": "Vice President",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 3,
+            "pid": 3,
             "positionTitle": "Financial Secretary",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 4,
+            "pid": 4,
             "positionTitle": "Social Director",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 5,
+            "pid": 5,
             "positionTitle": "Public Relations Officer",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 6,
+            "pid": 6,
             "positionTitle": "Treasurer",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 7,
+            "pid": 7,
             "positionTitle": "Sport Director",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 8,
+            "pid": 8,
             "positionTitle": "Welfare Director",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 9,
+            "pid": 9,
             "positionTitle": "Asst. Welfare Director",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 10,
+            "pid": 10,
             "positionTitle": "General Secretary",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 11,
+            "pid": 11,
             "positionTitle": "Asst. Public Relations Officer",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 12,
+            "pid": 12,
             "positionTitle": "Asst. Financial Secretary",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         },
         {
-            "positionId": 13,
+            "pid": 13,
             "positionTitle": "Asst. Social Director",
             "positionCandidate": [{
                     "id": 1,
                     "name": "Alebiosu Gbolahan",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 },
                 {
                     "id": 2,
                     "name": "Samuel Mbanne",
-                    "position": "",
+                    "image": "inmage_uri",
+                    "department": "",
                     "voteCount": 1,
-                    "isVoted": false
+                    "isVoted": false,
+                    "whoVoted": []
                 }
             ]
         }
-
+    ],
+    "users": [{
+            "id": 1,
+            "first_name": "Justina",
+            "last_name": "Ginglell",
+            "email": "jginglell0@networkadvertising.org",
+            "gender": "Female"
+        },
+        {
+            "id": 2,
+            "first_name": "Marion",
+            "last_name": "Jenman",
+            "email": "mjenman1@surveymonkey.com",
+            "gender": "Male"
+        },
+        {
+            "id": 3,
+            "first_name": "Alfy",
+            "last_name": "Begin",
+            "email": "abegin2@list-manage.com",
+            "gender": "Female"
+        },
+        {
+            "id": 4,
+            "first_name": "Karney",
+            "last_name": "Zanussii",
+            "email": "kzanussii3@hao123.com",
+            "gender": "Male"
+        },
+        {
+            "id": 5,
+            "first_name": "Reid",
+            "last_name": "Schapero",
+            "email": "rschapero4@timesonline.co.uk",
+            "gender": "Male"
+        },
+        {
+            "id": 6,
+            "first_name": "Dorine",
+            "last_name": "Braybrookes",
+            "email": "dbraybrookes5@gov.uk",
+            "gender": "Female"
+        },
+        {
+            "id": 7,
+            "first_name": "Sarena",
+            "last_name": "Frape",
+            "email": "sfrape6@alexa.com",
+            "gender": "Female"
+        },
+        {
+            "id": 8,
+            "first_name": "Malva",
+            "last_name": "Pierse",
+            "email": "mpierse7@usda.gov",
+            "gender": "Female"
+        },
+        {
+            "id": 9,
+            "first_name": "Rania",
+            "last_name": "Dablin",
+            "email": "rdablin8@state.gov",
+            "gender": "Female"
+        },
+        {
+            "id": 10,
+            "first_name": "Ingrim",
+            "last_name": "Offen",
+            "email": "ioffen9@slideshare.net",
+            "gender": "Male"
+        }
     ]
 }

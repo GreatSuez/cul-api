@@ -1,0 +1,290 @@
+{
+  "election": [
+    {
+      "positionId": 1,
+      "positionTitle": "President",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 2,
+      "positionTitle": "Vice President",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 3,
+      "positionTitle": "Financial Secretary",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 4,
+      "positionTitle": "Social Director",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 5,
+      "positionTitle": "Public Relations Officer",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 6,
+      "positionTitle": "Treasurer",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 7,
+      "positionTitle": "Sport Director",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 8,
+      "positionTitle": "Welfare Director",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 9,
+      "positionTitle": "Asst. Welfare Director",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 10,
+      "positionTitle": "General Secretary",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 11,
+      "positionTitle": "Asst. Public Relations Officer",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 12,
+      "positionTitle": "Asst. Financial Secretary",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    },
+    {
+      "positionId": 13,
+      "positionTitle": "Asst. Social Director",
+      "positionCandidate": [
+        {
+          "id": 1,
+          "name": "Alebiosu Gbolahan",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        },
+        {
+          "id": 2,
+          "name": "Samuel Mbanne",
+          "image": "inmage_uri",
+          "department": "",
+          "voteCount": 1,
+          "isVoted": false
+        }
+      ]
+    }
+  ]
+}
